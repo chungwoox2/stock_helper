@@ -81,12 +81,7 @@ const Firstpage = () => {
           </div>
         </div>
       </div>
-      <div id="img_container">
-        <img src={First_1} alt="1" />
-        <img src={First_2} alt="2" />
-        <img src={First_3} alt="3" />
-        <img src={First_4} alt="4" />
-      </div>
+      
     </div>
   );
 };
